@@ -5,3 +5,6 @@ type option
 color
 
 dark mode
+
+payment option
+video calling
