@@ -3,3 +3,5 @@ features
 emoji
 type option
 color
+
+dark mode
